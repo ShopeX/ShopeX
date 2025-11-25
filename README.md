@@ -1,4 +1,4 @@
-<p align="center"><img width="1924" height="922" alt="24d2ad541f604a28a54e0ff08ffa920e" src="https://github.com/user-attachments/assets/8eb02044-22b7-45e0-93a2-efc3710076dd" /></p>
+<p align="center"><a href="https://www.shopex.cn" target="_blank"><img width="1924" height="922" alt="24d2ad541f604a28a54e0ff08ffa920e" src="https://github.com/user-attachments/assets/8eb02044-22b7-45e0-93a2-efc3710076dd" /></a></p>
 
 # About Us
 ## ShopeX: Technology Drives the Future of Business
